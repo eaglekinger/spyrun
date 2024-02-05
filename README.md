@@ -2,3 +2,7 @@ Wifi Ağı oluşturur sistemi canlı tutar kendine özel ağ oluşturur ve siste
 Not: Sistem Geliştirme aşamasındadır
 
 Kali Linux/Debain/Ubuntu Download:
+git clone https://github.com/my2-5disappeared/spyrun.git
+cd spyrun
+python3 spyrun.py
+(Cmd yi adminstator olarak çalıştırın yoksa sistem çalışmaz)
